@@ -1,16 +1,12 @@
-### Hi there 👋
+* I'm physicist who works with data. Also, I like linux, key bindings, graph-databases and fast programs;
 
-<!--
-**luizpbraga/luizpbraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Current working as a data engineer at @Heimdall;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Learning about:
+  - Data Architecture;
+  - Networking;
+  - Software Development;
+  - Low level things (1010011010);
+  - How to exit vim;
+  
+ * My extension: { .py, .rs, .zig, .sh, .c, .f90 }
