@@ -1,6 +1,6 @@
 * I'm physicist who works with data. Also, I like linux, key bindings, graph-databases and fast programs;
 
-* Current working as a data engineer at @Heimdall;
+* Current working as a data engineer;
 
 * Learning about:
   - Data Architecture;
